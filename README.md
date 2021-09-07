@@ -1,6 +1,6 @@
-Hi there, I'm Emre 👋
+### Hi there, I'm Emre 👋
 
-I’m currently learning C# and Asp.Net
+## I’m currently learning C# and Asp.Net
 
 
 <!--
@@ -21,17 +21,20 @@ Here are some ideas to get you started:
 
 ## Skills 📝
 
-C++ / C# / Asp.Net / CSS / HTML / JavaScript / Python / Linux 
+C++ / C# / Asp.Net / SQL / CSS / HTML / JavaScript / Jquery / Linux 
 
 
 
 ## Languages and Tools: 🧠
 
-<code><a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
+<code><a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img height="30" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
 <code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
-<code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
-<code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg"></a></code>
-
+<code><a href="https://getfedora.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg"></a></code>
+<code><a href="https://github.com" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
+<code><a href="https://jquery.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 
 <!--
 ## Contact Me 📫

@@ -1,4 +1,4 @@
-### Hi Welcome to my Github 👋
+Hi there, I'm Emre 👋
 
 I’m currently learning C# and Asp.Net
 
@@ -25,12 +25,12 @@ C++ / C# / Asp.Net / CSS / HTML / JavaScript / Python / Linux
 
 
 
-## Know / Using 🧠
+## Languages and Tools: 🧠
 
 <code><a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
-<code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
-<code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
-<code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg"></a></code>
+<code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
+<code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a></code>
+<code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg"></a></code>
 
 
 <!--

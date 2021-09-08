@@ -40,11 +40,11 @@ C++ / C# / Asp.Net / SQL / CSS / HTML / JavaScript / Jquery / Linux
 <code><a href="#" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.virtualbox.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a></code>
 
-<!--
-## Contact Me 📫
 
-You can find and get touch with me on these accounts!
+### Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/merveberik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/merve-berik/)
+Get in touch with me
 
--->
+[![Linkedin Badge](https://img.shields.io/badge/emredemir-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emre-demir-/)
+
+

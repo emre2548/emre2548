@@ -1,6 +1,6 @@
 ### Hi there, I'm Emre 👋
 
-## I’m currently learning C# and Asp.Net
+## I’m currently codding C# and Asp.Net
 
 
 <!--
